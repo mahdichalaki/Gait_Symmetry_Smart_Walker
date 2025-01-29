@@ -4,10 +4,7 @@ This repository contains the Python notebook and associated resources for analyz
 
 ## Publication
 
-This repository is associated with our paper titled:  
-**"Evaluating Gait Symmetry with a Smart Robotic Walker: A Novel Approach to Mobility Assessment"**, presented at the **IROS 2024**.  
-
-The study demonstrates the potential of using sensor-integrated smart walkers to detect, quantify, and classify gait asymmetries, offering a novel diagnostic and rehabilitation tool for patients with neurological or physical gait disorders.
+This repository is associated with our paper titled **"Evaluating Gait Symmetry with a Smart Robotic Walker: A Novel Approach to Mobility Assessment"**, presented at the **IROS 2024**. The study demonstrates the potential of using sensor-integrated smart walkers to detect, quantify, and classify gait asymmetries, offering a novel diagnostic and rehabilitation tool for patients with neurological or physical gait disorders.
 
 ---
 
