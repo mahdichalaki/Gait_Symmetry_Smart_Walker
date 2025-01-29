@@ -96,12 +96,12 @@ DOI: [10.1109/IROS58592.2024.10801709](https://doi.org/10.1109/IROS58592.2024.10
 
 	'''bash
 	@INPROCEEDINGS{10801709,
-  author={Chalaki, Mahdi and Soleymani, Abed and Li, Xingyu and Mushahwar, Vivian and Tavakoli, Mahdi},
-  booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)}, 
-  title={Evaluating Gait Symmetry with a Smart Robotic Walker: A Novel Approach to Mobility Assessment}, 
-  year={2024},
-  volume={},
-  number={},
-  pages={4686-4692},
-  keywords={Legged locomotion;Biomechanics;Torque;Estimation;Robot sensing systems;Torque measurement;Indexes;Monitoring;Intelligent robots;Testing},
-  doi={10.1109/IROS58592.2024.10801709}}
+        author={Chalaki, Mahdi and Soleymani, Abed and Li, Xingyu and Mushahwar, Vivian and Tavakoli, Mahdi},
+	booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+ 	title={Evaluating Gait Symmetry with a Smart Robotic Walker: A Novel Approach to Mobility Assessment}, 
+ 	year={2024},
+  	volume={},
+	number={},
+	pages={4686-4692},
+  	keywords={Legged locomotion;Biomechanics;Torque;Estimation;Robot sensing systems;Torque measurement;Indexes;Monitoring;Intelligent robots;Testing},
+  	doi={10.1109/IROS58592.2024.10801709}}
