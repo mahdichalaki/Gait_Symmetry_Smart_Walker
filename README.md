@@ -94,7 +94,7 @@ If you use this code or methodology in your research, please cite our paper:
 *IEEE International Conference on Intelligent Robots and Systems (IROS), 2024.*  
 DOI: [10.1109/IROS58592.2024.10801709](https://doi.org/10.1109/IROS58592.2024.10801709)
 
-	'''bash
+	'''
 	@INPROCEEDINGS{10801709,
         author={Chalaki, Mahdi and Soleymani, Abed and Li, Xingyu and Mushahwar, Vivian and Tavakoli, Mahdi},
 	booktitle={2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
